@@ -24,6 +24,6 @@ The goal of this project is to analyze the results of an A/B test using statisti
 ## 💡 Key Deliverables
 - **[🚀 Open in Google Colab](https://colab.research.google.com/drive/1BdpYxtRwRsBXGSUM-Yc1HZyJv_T8HXYb#scrollTo=MFziQ6M3QWoj)** — Full Python code.
 - **[📊 View Interactive Dashboard](https://public.tableau.com/app/profile/kyrylo.rymar/viz/ABTest_17690307184180/DashboardforABTestRymarKyrylo?publish=yes)** — Visual summary of the test results.
-- (<img width="600" height="803" alt="Dashboard_for_A_B tests" src="https://github.com/user-attachments/assets/c2e5176d-5659-4913-b94e-4ff16684c182" />)
+- <img width="600" height="803" alt="Dashboard_for_A_B tests" src="https://github.com/user-attachments/assets/c2e5176d-5659-4913-b94e-4ff16684c182" />)
 
 
